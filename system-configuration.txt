@@ -1,7 +1,33 @@
 GENERAL
   - General
+      - Countries Options
+      - States Options
+      - Locale Options
+      - Store Information +++
+          - Store Name
+          - Store Contact Telephone
+          - Store Hours of Operation
+          - Country
+          - Store Contact Address
   - Web
+      - Url Options
+      - Search Engines Optimization
+      - Unsecure
+      - Secure
+      - Default Pages
+      - Polls
+      - Session Cookie Management
+      - Session Validation Settings
+      - Browser Capabilites Detectios
   - Design
+      - Package
+      - Themes
+      - HTML Head
+      - Header
+      - Footer
+      - Product Image Watermarks
+      - Pagination
+      - Transaction Emails
   - Currency Setup
   - Store Email Addresses
   - Contacts
