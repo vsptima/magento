@@ -30,27 +30,27 @@
     - Catalog Price Rules           = Правила цен каталога
     - Shopping Cart Price Rules     = Правила корзины покупок
     
-- Newsletter
-    - Newsletter Templates
+- Newsletter                        = НОВОСТНЫЙ РАССЫЛКИ =
+    - Newsletter Templates          = Шаблоны новостных рассылок
     - Newsletter Queue
     - Newsletter Subscribers
     - Newsletter Problem Reports
     
-- CMS
-    - Pages
-    - Static Blocks
-    - Widgets
-    - Polls
+- CMS                   = ЦМС =
+    - Pages             = Страницы
+    - Static Blocks     = Статические блоки
+    - Widgets           = Виджеты
+    - Polls             = Голосования
     
-- Reports
-    - Sales
-    - Shopping Cart
-    - Products
-    - Customers
-    - Tags
-    - Reviews
-    - Search Terms
-    - Refresh Statistics
+- Reports                   = ОТЧЕТЫ =
+    - Sales                 = Продажи
+    - Shopping Cart         = Корзина покупок
+    - Products              = Продукты
+    - Customers             = Пользователи
+    - Tags                  = Теги (метки)
+    - Reviews               = Отзывы
+    - Search Terms          = Условия поиска
+    - Refresh Statistics    = Статистика обновлений
     
 - System
     - My Account
