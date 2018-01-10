@@ -1,7 +1,7 @@
-- Dashboard
+- Dashboard                 = ПРИБОРНАЯ ПАНЕЛЬ =
 
 - Sales                     = ПРОДАЖИ =
-    - Orders                = Заказы
+    - Orders                = Заказы +++
     - Invoices              = Счета-фактуры
     - Shipments             = Отгрузки
     - Credit Memos          = Кредитные авизо
@@ -12,9 +12,9 @@
     - Tax                   = Налог
     
 - Catalog                       = КАТАЛОГ =
-    - Manage Products           = Управление продуктами
-    - Manage Categories         = Управление категориями
-    - Attributes                = Аттрибуты (товаров)
+    - Manage Products           = Управление продуктами +++
+    - Manage Categories         = Управление категориями +++
+    - Attributes                = Аттрибуты (товаров) +++
     - URL Rewrite Management    = Управление перезаписью URL
     - Search Terms              = Условия поиска
     - Reviews and Ratings       = Отзывы и рейтинги
@@ -22,8 +22,8 @@
     - Google Sitemap            = Карта сайта Google
     
 - Customers             = ПОЛЬЗОВАТЕЛИ =
-    - Manage Customers  = Управление пользователями
-    - Customer Groups   = Группы пользователей
+    - Manage Customers  = Управление пользователями +++
+    - Customer Groups   = Группы пользователей +++
     - Online Customers  = Пользователи on-line
     
 - Promotions                        = АКЦИИ =
@@ -37,9 +37,9 @@
     - Newsletter Problem Reports
     
 - CMS                   = ЦМС =
-    - Pages             = Страницы
-    - Static Blocks     = Статические блоки
-    - Widgets           = Виджеты
+    - Pages             = Страницы +++
+    - Static Blocks     = Статические блоки +++
+    - Widgets           = Виджеты +++
     - Polls             = Голосования
     
 - Reports                   = ОТЧЕТЫ =
@@ -58,14 +58,14 @@
     - Tools                 = Инструменты
     - Web Services          = Вэб сервисы
     - Design                = Дизайн
-    - Import/Export         = Импорт/Экспорт
+    - Import/Export         = Импорт/Экспорт +++
     - Manage Currency       = Управление валютами
-    - Transactional Emails  = Транзакционные письма
-    - Custom Variables      = Пользовательские переменные
-    - Permissions           = Права доступа
+    - Transactional Emails  = Транзакционные письма +++
+    - Custom Variables      = Пользовательские переменные +++
+    - Permissions           = Права доступа +++
     - Magento Connect       = 
-    - Cache Management      = Управление кешем
-    - Index Management      = Управление индексом
-    - Manage Stores         = Управление магазинами
+    - Cache Management      = Управление кешем +++
+    - Index Management      = Управление индексом +++
+    - Manage Stores         = Управление магазинами +++
     - Order Statuses        = Статусы заказов
-    - Configuration         = Конфигурация
+    - Configuration         = Конфигурация +++
