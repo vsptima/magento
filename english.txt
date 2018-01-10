@@ -12,14 +12,14 @@
     - Tax
     
 - Catalog
-    - Manage Products
-    - Manage Categories
-    - Attributes
-    - URL Rewrite Management
-    - Search Terms
-    - Reviews and Ratings
-    - Tags
-    - Google Sitemap
+    - Manage Products           = Управление продуктами
+    - Manage Categories         = Управление категориями
+    - Attributes                = Аттрибуты (товаров)
+    - URL Rewrite Management    = Управление перезаписью URL
+    - Search Terms              = Условия поиска
+    - Reviews and Ratings       = Отзывы и рейтинги
+    - Tags                      = Теги (метки)
+    - Google Sitemap            = Карта сайта Google
     
 - Customers
     - Manage Customers
