@@ -1,0 +1,42 @@
+GENERAL
+  - General
+  - Web
+  - Design
+  - Currency Setup
+  - Store Email Addresses
+  - Contacts
+  - Reports
+  - Content Management
+
+CATALOG
+  - Catalog
+  - Configurable Swatches
+  - Inventory
+  - Google Sitemap
+  - RSS Feeds
+
+CUSTOMERS
+  - Newsletter
+  - Customer Configuration
+  - Wishlist
+  - Promotions
+  - Persistent Shopping Cart
+
+SALES
+  - Sales
+  - Sales Emails
+  - PDF Print-outs
+  - Tax
+  - Checkout
+  - Shipping Settings
+  - Shipping Methods
+  - Google API
+  - Payment Methods
+  - Payment Services
+  - Moneybookers
+
+ADVANCED
+  - Admin
+  - System
+  - Advanced
+  - Developer
