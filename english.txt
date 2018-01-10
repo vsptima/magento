@@ -1,6 +1,6 @@
 - Dashboard
 
-- Sales
+- Sales                     = ПРОДАЖИ =
     - Orders                = Заказы
     - Invoices              = Счета-фактуры
     - Shipments             = Отгрузки
@@ -11,7 +11,7 @@
     - Terms and conditions  = Положения и условия
     - Tax                   = Налог
     
-- Catalog
+- Catalog                       = КАТАЛОГ =
     - Manage Products           = Управление продуктами
     - Manage Categories         = Управление категориями
     - Attributes                = Аттрибуты (товаров)
@@ -21,14 +21,14 @@
     - Tags                      = Теги (метки)
     - Google Sitemap            = Карта сайта Google
     
-- Customers
-    - Manage Customers
-    - Customer Groups
-    - Online Customers
+- Customers             = ПОЛЬЗОВАТЕЛИ =
+    - Manage Customers  = Управление пользователями
+    - Customer Groups   = Группы пользователей
+    - Online Customers  = Пользователи on-line
     
-- Promotions
-    - Catalog Price Rules
-    - Shopping Cart Price Rules
+- Promotions                        = АКЦИИ =
+    - Catalog Price Rules           = Правила цен каталога
+    - Shopping Cart Price Rules     = Правила корзины покупок
     
 - Newsletter
     - Newsletter Templates
