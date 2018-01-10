@@ -1,0 +1,26 @@
+- Sales
+    - Orders                    = Заказы
+    
+- Catalog
+    - Manage Products           = Управление продуктами
+    - Manage Categories         = Управление категориями
+    - Attributes                = Аттрибуты (товаров)
+    
+- Customers
+    - Manage Customers          = Управление пользователями
+    - Customer Groups           = Группы пользователей
+    
+- CMS
+    - Pages                     = Страницы
+    - Static Blocks             = Статические блоки
+    - Widgets                   = Виджеты
+    
+- System
+    - Import/Export             = Импорт/Экспорт
+    - Transactional Emails      = Транзакционные письма
+    - Custom Variables          = Пользовательские переменные
+    - Permissions               = Права доступа
+    - Cache Management          = Управление кешем
+    - Index Management          = Управление индексом
+    - Manage Stores             = Управление магазинами
+    - Configuration             = Конфигурация
