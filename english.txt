@@ -1,15 +1,15 @@
 - Dashboard
 
 - Sales
-    - Orders
-    - Invoices
-    - Shipments
-    - Credit Memos
-    - Transactions
-    - Recuring Profiles
-    - Billing Agreements
-    - Terms and conditions
-    - Tax
+    - Orders                = Заказы
+    - Invoices              = Счета-фактуры
+    - Shipments             = Отгрузки
+    - Credit Memos          = Кредитные авизо
+    - Transactions          = Транзакции
+    - Recuring Profiles     = Повторяющиеся профили
+    - Billing Agreements    = Соглашения о выставлении счетов
+    - Terms and conditions  = Положения и условия
+    - Tax                   = Налог
     
 - Catalog
     - Manage Products           = Управление продуктами
