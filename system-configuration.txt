@@ -20,16 +20,21 @@ GENERAL
       - Session Validation Settings
       - Browser Capabilites Detectios
   - Design
-      - Package
-      - Themes
+      - Package +++
+      - Themes +++
       - HTML Head
       - Header
-      - Footer
+      - Footer +++
       - Product Image Watermarks
       - Pagination
       - Transaction Emails
   - Currency Setup
   - Store Email Addresses
+      - General Contact
+      - Sales Representative
+      - Customer Support
+      - Custom Email 1
+      - Custom Email 2
   - Contacts
   - Reports
   - Content Management
@@ -54,15 +59,29 @@ SALES
   - PDF Print-outs
   - Tax
   - Checkout
-  - Shipping Settings
-  - Shipping Methods
+  - Shipping Settings +++
+  - Shipping Methods +++
   - Google API
-  - Payment Methods
-  - Payment Services
+  - Payment Methods +++
+  - Payment Services +++
   - Moneybookers
 
 ADVANCED
   - Admin
+      - Admin User Emails
+      - Startup Page
+      - Admin Base URL
+      - Security
+      - Dashboard
+      - CAPTCHA
   - System
   - Advanced
+      - Disable Modules Output
   - Developer
+      - Developer Client Restriction
+      - Debug
+      - Template Settings
+      - Translate Inline
+      - Log Settings
+      - JavaScript Settings
+      - CSS Settings
