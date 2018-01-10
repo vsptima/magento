@@ -53,19 +53,19 @@
     - Refresh Statistics    = Статистика обновлений
     
 - System
-    - My Account
-    - Notifications
-    - Tools
-    - Web Services
-    - Design
-    - Import/Export
-    - Manage Currency
-    - Transactional Emails
-    - Custom Variables
-    - Permissions
-    - Magento Connect
-    - Cache Management
-    - Index Management
-    - Manage Stores
-    - Order Statuses
-    - Configuration
+    - My Account            = Мой аккаунт
+    - Notifications         = Уведомления
+    - Tools                 = Инструменты
+    - Web Services          = Вэб сервисы
+    - Design                = Дизайн
+    - Import/Export         = Импорт/Экспорт
+    - Manage Currency       = Управление валютами
+    - Transactional Emails  = Транзакционные письма
+    - Custom Variables      = Пользовательские переменные
+    - Permissions           = Права доступа
+    - Magento Connect       = 
+    - Cache Management      = Управление кешем
+    - Index Management      = Управление индексом
+    - Manage Stores         = Управление магазинами
+    - Order Statuses        = Статусы заказов
+    - Configuration         = Конфигурация
