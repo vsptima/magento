@@ -1,0 +1,71 @@
+- Dashboard
+
+- Sales
+    - Orders
+    - Invoices
+    - Shipments
+    - Credit Memos
+    - Transactions
+    - Recuring Profiles
+    - Billing Agreements
+    - Terms and conditions
+    - Tax
+    
+- Catalog
+    - Manage Products
+    - Manage Categories
+    - Attributes
+    - URL Rewrite Management
+    - Search Terms
+    - Reviews and Ratings
+    - Tags
+    - Google Sitemap
+    
+- Customers
+    - Manage Customers
+    - Customer Groups
+    - Online Customers
+    
+- Promotions
+    - Catalog Price Rules
+    - Shopping Cart Price Rules
+    
+- Newsletter
+    - Newsletter Templates
+    - Newsletter Queue
+    - Newsletter Subscribers
+    - Newsletter Problem Reports
+    
+- CMS
+    - Pages
+    - Static Blocks
+    - Widgets
+    - Polls
+    
+- Reports
+    - Sales
+    - Shopping Cart
+    - Products
+    - Customers
+    - Tags
+    - Reviews
+    - Search Terms
+    - Refresh Statistics
+    
+- System
+    - My Account
+    - Notifications
+    - Tools
+    - Web Services
+    - Design
+    - Import/Export
+    - Manage Currency
+    - Transactional Emails
+    - Custom Variables
+    - Permissions
+    - Magento Connect
+    - Cache Management
+    - Index Management
+    - Manage Stores
+    - Order Statuses
+    - Configuration
